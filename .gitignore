@@ -1,0 +1,8 @@
+/.classpath
+/.project
+/.settings/*.prefs
+/target/classes/META-INF/MANIFEST.MF
+/target/classes/META-INF/maven/nelsonapps.demos.db1/db1App/pom.properties
+/target/classes/META-INF/maven/nelsonapps.demos.db1/db1App/pom.xml
+/target/classes/nelsonapps/demos/db1/service/PasswordMeter.class
+/target/test-classes/nelsonapps/demos/db1/test/PasswordMeterTest.class
